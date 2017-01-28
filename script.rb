@@ -22,6 +22,6 @@ ap admin_role.methods - Object.methods
 
 puts tip(80)
 
-save_new_user('oberto', 'roberto@hotmail.com', 1981)
+save_new_user('oberto', 'roberto@hotmail.com.mx', 1981)
 users = save_new_user('Elcompa', 'elcompa@gmail.com', 1986)
 ap users
